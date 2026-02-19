@@ -1,0 +1,648 @@
+MARITIME LLM SIMULATION LOGS 
+================================
+
+--- Starting Run 1 ---
+
+Run 1 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 1 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 1 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 1 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 1 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 1 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 1 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 1 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 1 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 1 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 1 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 1 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 1 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 1 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 1 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+ --- END OF RUN 1 --- 
+
+--- Starting Run 2 ---
+
+Run 2 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 2 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 2 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 2 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 2 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 2 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 2 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 2 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 2 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 2 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 2 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 2 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 2 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 2 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 2 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+ --- END OF RUN 2 --- 
+
+--- Starting Run 3 ---
+
+Run 3 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 3 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 3 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 3 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 3 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 3 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 3 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 3 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 3 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 3 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 3 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 3 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 3 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 3 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 3 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+ --- END OF RUN 3 --- 
+
+--- Starting Run 4 ---
+
+Run 4 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 4 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 4 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 4 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 4 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 4 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 4 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 4 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 4 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 4 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 4 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 4 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 4 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 4 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 4 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+ --- END OF RUN 4 --- 
+
+--- Starting Run 5 ---
+
+Run 5 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 5 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 5 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 5 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 5 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 5 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 5 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 5 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 5 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 5 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 5 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 5 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 5 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 5 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 5 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+ --- END OF RUN 5 --- 
+
+--- Starting Run 6 ---
+
+Run 6 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 6 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 6 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 6 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 6 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 6 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 6 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 6 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 6 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 6 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 6 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 6 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 6 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 6 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 6 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+ --- END OF RUN 6 --- 
+
+--- Starting Run 7 ---
+
+Run 7 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 7 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 7 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 7 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 7 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+ --- END OF RUN 7 --- 
+
+--- Starting Run 8 ---
+
+Run 8 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 8 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 8 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 8 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 8 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 8 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 8 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 8 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 8 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 8 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 8 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 8 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 8 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 8 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 8 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+ --- END OF RUN 8 --- 
+
+--- Starting Run 9 ---
+
+Run 9 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 9 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 9 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 9 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 9 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 9 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 9 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 9 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 9 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 9 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 9 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 9 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 9 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 9 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 9 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+ --- END OF RUN 9 --- 
+
+--- Starting Run 10 ---
+
+Run 10 | Turn 1
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 10 | Turn 2
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 10 | Turn 3
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 10 | Turn 4
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 10 | Turn 5
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 10 | Turn 6
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 10 | Turn 7
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 10 | Turn 8
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: Wait
+
+Run 10 | Turn 9
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 10 | Turn 10
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 10 | Turn 11
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 10 | Turn 12
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: South
+
+Run 10 | Turn 13
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 10 | Turn 14
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+Run 10 | Turn 15
+Coast Guard (LLM) answered 'East' -> Actually moves: East
+Smuggler moves: West
+
+ --- END OF RUN 10 --- 
+
+
+================================
+FINAL V2 RESULTS: 0/10 Interceptions
+SUCCESS RATE V2: 0.0%
+================================
